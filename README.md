@@ -187,7 +187,7 @@ python analysis/analysis.py
 
 **Babusingh Kushwaha**
 Technical Associate | Deputed in VNIT College (Principal Security & Allied Services Pvt. Ltd.)
-M.Sc. Electronics | IoT & Industrial Data Analytics
+Technical Associate | Database Administrator
 
 [![GitHub](https://img.shields.io/badge/GitHub-babuhkush715--arch-blue)](https://github.com/babuhkush715-arch)
 
